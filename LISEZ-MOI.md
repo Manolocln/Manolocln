@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Manolocln
+- 👀 I’m interested in IA
+- 🌱 I’m currently learning Machine learning, deep learning, data science
+- 📫 How to reach me: email: manolocolin@orange.fr
